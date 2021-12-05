@@ -4,6 +4,8 @@ This betting system is inspired in Philippines Cock Fighting events specially in
 
 # Features
 - Payout computation based in Odds Example: $100 bet at 180% wins $180.
+- Fighers canno't see the bets of players.
+- Players can bet on both sides.
 
 # Screenshots
 ![alt text](https://github.com/Drizzyz/Betting-System/blob/master/images/pic1.png?raw=true)
