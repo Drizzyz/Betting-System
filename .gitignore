@@ -1,0 +1,11 @@
+# directories
+plugins/
+dependencies/
+.exe
+.dll
+
+# binaries
+*.exe
+*.dll
+*.txt
+*.cfg
