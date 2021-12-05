@@ -17,3 +17,6 @@ This betting system is inspired in Philippines Cock Fighting events specially in
 
 - Mappings:
 - Telken
+
+# Screenshots
+https://github.com/Drizzyz/Betting-System/blob/master/images/pic1.png
