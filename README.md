@@ -9,10 +9,11 @@ This betting system is inspired in Philippines Cock Fighting events specially in
 ## Credits:
 
 - Includes:
--       sampctl/samp-stdlib
--		karimcambridge/SAMP-foreach
--		maddinat0r/sscanf:v2.8.3
--		katursis/Pawn.CMD:3.3.6
--		samp-incognito/samp-streamer-plugin:v2.9.5
+- sampctl/samp-stdlib
+- karimcambridge/SAMP-foreach
+- maddinat0r/sscanf:v2.8.3
+- katursis/Pawn.CMD:3.3.6
+- samp-incognito/samp-streamer-plugin:v2.9.5
+
 - Mappings:
--        Telken
+- Telken
