@@ -423,16 +423,6 @@ CMD:joinbetting(playerid, params[])
     return 1;
 }
 
-CMD:setskin(playerid, params)
-{
-    return SetPlayerSkin(playerid, random(250));
-}
-
-CMD:money(playerid, params)
-{
-    return GivePlayerMoney(playerid, 2500);
-}
-
 CreatePlayerBoxingCage(){
     CreateDynamicObject(5187, 2357.50000, -1648.89941, -96.30000,   359.74731, 179.99451, 268.98926);
     CreateDynamicObject(9303, 2329.69922, -1677.09961, -92.60000,   359.98901, 359.48914, 86.72607);
